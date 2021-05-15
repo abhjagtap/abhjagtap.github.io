@@ -78,7 +78,7 @@ Tableau Public Link
 https://public.tableau.com/profile/abhijeet.jagtap/
 
 
-LinkedIn Handle]
+LinkedIn Handle
 https://www.linkedin.com/in/abhijeetjagatp/
 
 ---
