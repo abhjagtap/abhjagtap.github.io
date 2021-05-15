@@ -27,8 +27,6 @@ Seeking for a challenging position, where I can stand a chance to use the best o
 
 ---
 
-<img src="images/uni.jpg?raw=true" align="middle" width="400" height="140" alt="uni logos">
-
 <b> Pune University, India </b>
 
 B Sc (Honors: Industrial Chemistry),			 		            July 2008
