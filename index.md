@@ -26,10 +26,9 @@ Seeking for a challenging position, where I can stand a chance to use the best o
 ## Education
 
 ---
-
 <b> Pune University, India </b>
 
-B Sc (Honors: Industrial Chemistry),			 		            July 2008
+B Sc (Honors: Industrial Chemistry),	July 2008
 
 ---
 
