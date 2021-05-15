@@ -11,7 +11,7 @@ Seeking for a challenging position, where I can stand a chance to use the best o
 ---
 **Analytical Tools:** Advance Excel, VBA(Macro), Alteryx.
 
-**Database Tools & Business Intelligence Tools:** MS Access (queries, forms, reports, modules), SQL Server. MS Power BI, QlikSense, Tableau, MicroStratergy and MongoDb Chartseb Development, Rest API's, AWS, Analytical Skills
+**Database Tools & Business Intelligence Tools:** MS Access (queries, forms, reports, modules), SQL Server. MS Power BI, QlikSense, Tableau, MicroStratergy and MongoDb Charts.
 
 **CRM:** Jira, Saleforce & Sharepoint.
 
