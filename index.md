@@ -62,7 +62,7 @@ B Sc (Honors: Industrial Chemistry),			 		            July 2008
 
 ---
 
-[VBA Code]
+VBA Code
 
 Link Creator - https://www.dropbox.com/s/vzao3dct29rqyki/Link%20Creator.xlsm
 
@@ -70,10 +70,12 @@ Email Check - https://www.dropbox.com/s/x1jirb0ajjneatz/Email%20Check.xlsm
 
 Formatting   - https://www.dropbox.com/s/ucrdn9ard29f237/Formatting.xlsm
 
-[Tableau Public Link]
-https://public.tableau.com/profile/abhijeet.jagtap5891#!/
 
-[LinkedIn Handle] 
+Tableau Public Link
+https://public.tableau.com/profile/abhijeet.jagtap/
+
+
+LinkedIn Handle]
 https://www.linkedin.com/in/abhijeetjagatp/
 
 ---
