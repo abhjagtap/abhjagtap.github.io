@@ -67,15 +67,10 @@ Email Check - https://www.dropbox.com/s/x1jirb0ajjneatz/Email%20Check.xlsm
 
 Formatting   - https://www.dropbox.com/s/ucrdn9ard29f237/Formatting.xlsm
 
-Power BI Project
-https://www.dropbox.com/s/j1bq7tkoilysmvu/Corporate%20Services%20Expense%20Report.pbix
+Power BI Project :
+(https://www.dropbox.com/s/j1bq7tkoilysmvu/Corporate%20Services%20Expense%20Report.pbix)
 
-
-Tableau Public Link
-https://public.tableau.com/profile/abhijeet.jagtap/
-
-
-LinkedIn Handle
-https://www.linkedin.com/in/abhijeetjagatp/
+Tableau Public Link : 
+(https://public.tableau.com/profile/abhijeet.jagtap/)
 
 ---
