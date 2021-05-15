@@ -51,14 +51,14 @@ B Sc (Honors: Industrial Chemistry),			 		            July 2008
 
 <b> Senior Data Analyst </b> – [Selling Simplified Pvt. Ltd](https://sellingsimplified.com/), Aug 2016 to Sep 2018
 
-<b> Data Consultant </b> – [Xtaas Corp Pvt Ltd](https://https://.2xconnect.com/), 2018 to May 2019
+<b> Data Consultant </b> – [Xtaas Corp Pvt Ltd](https://https://2xconnect.com//), 2018 to May 2019
 
-<b> Deputy Manager - Data Visualization </b> – [Vodafone Pvt Ltd](https://https://.2xconnect.com/), Jun 2019 to Present
+<b> Deputy Manager - Data Visualization </b> – [Vodafone Pvt Ltd](https://vodafoneidea.com/), Jun 2019 to Present
 
 
 ---
 
-## Contact
+## Links
 
 ---
 
