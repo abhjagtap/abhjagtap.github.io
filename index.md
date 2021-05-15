@@ -1,25 +1,25 @@
 ## Bio
 
 ---
-I have done my graduation in Computer Science from Savitribai Phule Pune University. Since the start of my engineering degree studies I have been constantly learning and developing my skills to deal with flow, layout, problem definition of software, and learning New technologies which are flooding the market to develop a consumer application. I have plenty of hands on experience of the technical attributes mentioned in my resume and I have full understanding of the software development life-cycle from initial stage of requirement gathering to testing and maintenance.
+Seeking for a challenging position, where I can stand a chance to use the best of my knowledge and experience of the last 11 years of technical skills ,People Management, Team Handling and achieve goals of the company and serve the company to the best of my abilities. I am a dynamic and hardworking person with excellent spoken and written communication, interpersonal and computer skills. I am detail oriented, well organized and has the ability to manage multi-tasking, and meet deadlines simultaneously under minimal supervision. Adapt easily to new concepts and responsibilities. Self-motivated and able to set effective priorities and implement decisions to achieve immediate and long-term goals as well as meet operational deadlines. Staying focused in demanding work environments, under deadlines and pressure conditions. Meeting challenges head-on and always finding a way to effectively complete multiple assignments.
 
-I have technical expertise with experience of 4+ years includes cross-platform proficiency (Windows, Linux); fluency in scripting / programming languages (including Python, Javascript), have hands-on experience in the web development framework such as Django with HTML ,CSS, Bootstrap and also used PostgreSQL for database, worked on Django Rest Framework / Flask and GraphQL for creating REST API's, worked on pandas, numpy for data extraction and manipulation. Professional knowledge of developer applications, tools, methodologies and best practices (including OOD, client/server architecture).
 
 ---
 
 ## Skills
 
 ---
+**Analytical Tools:** Advance Excel, VBA(Macro), Alteryx.
 
-**Programming:** Python, JavaScript, Git, Bash, PostgreSQL
+**Database Tools & Business Intelligence Tools:** MS Access (queries, forms, reports, modules), SQL Server. MS Power BI, QlikSense, Tableau, MicroStratergy and MongoDb Chartseb Development, Rest API's, AWS, Analytical Skills
 
-**Frameworks:** Django, Flask, FastAPI
+**CRM:** Jira, Saleforce & Sharepoint.
 
-**Cloud Computing:** AWS (S3, EC2, CloudFormation, lambda)
+**Cloud Computing:** GCP
 
-**Libraries:** NumPy, Pandas, gdal, matplotlib, SQLAlchemy
+**Programming:** Visual Basic For Application, SQL, Python.
 
-**Technical Knowledge:** Web Development, Rest API's, AWS, Analytical Skills
+**Libraries:** NumPy, Pandas, matplotlib.
 
 ---
 
@@ -31,11 +31,7 @@ I have technical expertise with experience of 4+ years includes cross-platform p
 
 <b> Pune University, India </b>
 
-B.E.  - Computer Science (Honors: First Class),			 		            May 2016
-
-<b> Maharashtra State Board of Technical Education, India </b>
-
-Dip.  - Computer Science (Honors: First Class),			 		            May 2013
+B Sc (Honors: Industrial Chemistry),			 		            July 2008
 
 ---
 
@@ -45,65 +41,36 @@ Dip.  - Computer Science (Honors: First Class),			 		            May 2013
 
 <img src="images/experience.png?raw=true" align="middle" width="700" height="120" alt="experience logos">
 
-<b> Python Developer </b> – [GeoSpoc Geospatial Services Pvt. Ltd](https://geospoc.com/), Oct 2019 – Present
+<b> Sales Professional </b> – [Oceans Connect Pvt Ltd](https://oceansconnect.com/), Feb 2010 to Jul 2010
 
-<b> Software Developer </b> – [Tellme Digiinfotech Pvt. Ltd (Promoted by Indiacom Pvt. Ltd.)](https://youtellme.ai/), Jul 2018 – Oct 2019
+<b> Senior Research Analyst </b> – [Salesify Pvt Ltd](https://zdperformancemarketing.com/salesify/), Sep 2010 to Feb 2012
 
-<b> Associate Data Analyst </b> – [Selling Simplified Pvt Ltd](https://sellingsimplified.com/), Mar 2017 – Apr 2018 
+<b> Team Mentor/Sr. Research Analyst </b> – [Flexisales Pvt Ltd](https://www.flexisales.com/), Jun 2012 to Aug 2014 
 
-<b> Software Developer </b> – GabZil Tech Pvt. Ltd, Jun 2016 – Nov 2016
+<b> Senior Implementation Specialist/ Team Supervisor </b> – [Yardi Software Pvt Ltd](https://yardi.com/), Dec 2014 to Jul 2016
+
+<b> Senior Data Analyst </b> – [Selling Simplified Pvt. Ltd](https://sellingsimplified.com/), Aug 2016 to Sep 2018
+
+<b> Data Consultant </b> – [Xtaas Corp Pvt Ltd](https://https://.2xconnect.com/), 2018 to May 2019
+
+<b> Deputy Manager - Data Visualization </b> – [Vodafone Pvt Ltd](https://https://.2xconnect.com/), Jun 2019 to Present
+
 
 ---
 
-## Publications
-
----
-
-[Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&user=lzGlBzQAAAAJ)
-
-
-### A)	Vision of Future: Augmented Reality Vision via Augmented Web
-
-R Bhardwaj, V Bheed, P Bhide, *W Tamboli*, A Momin, (2015). On Vision of Future: Augmented Reality Vision via Augmented Web in IJSRD - International Journal for Scientific Research & Development| Vol. 3, Issue 09, 2015 | ISSN (online): 2321-0613. [PDF](./pdf/Vision1.pdf)
-
-### B)	Vision of Future: Augmented Reality Vision
-
-R Bhardwaj, V Bheed, P Bhide, *W Tamboli*, A Momin, (2015). Vision of Future: Augmented Reality Vision on IJSRD - International Journal for Scientific Research & Development| Vol. 3, Issue 08, 2015 | ISSN (online): 2321-0613. [PDF](./pdf/Vision2.pdf)
-
----
-
-## Professional Development
-
----
-
-**Awards**
-
-Department of Computer Science,  			                                        Anual Challenge, 2015 <br/>
-<i> Award for best poster among 20+ candidates </i>
-
-Advanced Communicator Bronze,  					                                    Inter-collage Paper Presentation, 2012 <br/>
-<i> Awards for completing 10 public speaking assignments on latest topics </i>
-
-Silver Medal,                                                                       Pune, 2010 <br/>
-<i> Award for Drawing Traffic Awareness Poster </i>
-
-**Service**
-
-Young Professionals Committee - Society of Computer Science,                        Computer Science Dept. 2014 - 2015 <br/>
-<i> Organized quarterly Distinguished Guest Lecture Programs, conducted outreach activities to raise awareness about latest technologies </i>  
-
-Vice President, 	                                                                Society of Computer Science Student Chapter, 2014 – 2015 <br/>
-<i> Organized college-level conference by raising funds and received the Silver Standard award for exceptional work  </i>  
-
-Editor, 	                                                                        Society of Computer Science Student Chapter, 2013 – 2015 <br/>
-<i> Enabled design and publication of annual departmental magazine by assembling competent team, delegating work, filtering and editing of submitted articles while meeting editorial deadlines </i>
-
----
 ## Contact
 
 ---
 
-  I'm currently looking for python developer opportunities or freelance projects.<br/>
-  If you would like to discuss a project or employment opportunities, please do not hesitate to get in touch.
+[VBA Code]
+Link Creator - https://www.dropbox.com/s/vzao3dct29rqyki/Link%20Creator.xlsm
+Email Check - https://www.dropbox.com/s/x1jirb0ajjneatz/Email%20Check.xlsm
+Formatting   - https://www.dropbox.com/s/ucrdn9ard29f237/Formatting.xlsm
+
+[Tableau Public Link]
+https://public.tableau.com/profile/abhijeet.jagtap5891#!/
+
+[LinkedIn Handle] 
+https://www.linkedin.com/in/abhijeetjagatp/
 
 ---
