@@ -36,7 +36,7 @@ B Sc (Honors: Industrial Chemistry),	July 2008
 
 ---
 
-<img src="images/experience.png.png?raw=true" align="middle" width="1139" height="221" alt="experience logos">
+<img src="images/experience.png.png?raw=true" align="middle" width="1500" height="221" alt="experience logos">
 
 <b> Sales Professional </b> – [Oceans Connect Pvt Ltd](https://oceansconnect.com/), Feb 2010 to Jul 2010
 
