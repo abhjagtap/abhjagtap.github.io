@@ -59,7 +59,7 @@ B Sc (Honors: Industrial Chemistry),	July 2008
 
 ---
 
-VBA Code
+Work Samples
 
 [Link Creator](https://www.dropbox.com/s/vzao3dct29rqyki/Link%20Creator.xlsm)
 
