@@ -61,14 +61,14 @@ B Sc (Honors: Industrial Chemistry),	July 2008
 
 VBA Code
 
-<b> [Link Creator] <b> (https://www.dropbox.com/s/vzao3dct29rqyki/Link%20Creator.xlsm)
+[Link Creator](https://www.dropbox.com/s/vzao3dct29rqyki/Link%20Creator.xlsm)
 
-<b> [Email Check] <b> (https://www.dropbox.com/s/x1jirb0ajjneatz/Email%20Check.xlsm) 
+[Email Check](https://www.dropbox.com/s/x1jirb0ajjneatz/Email%20Check.xlsm) 
 
-<b> [Formatting] <b> (https://www.dropbox.com/s/ucrdn9ard29f237/Formatting.xlsm)
+[Formatting](https://www.dropbox.com/s/ucrdn9ard29f237/Formatting.xlsm)
 
-<b> [Power BI Project] <b> (https://www.dropbox.com/s/j1bq7tkoilysmvu/Corporate%20Services%20Expense%20Report.pbix)
+[Power BI Project](https://www.dropbox.com/s/j1bq7tkoilysmvu/Corporate%20Services%20Expense%20Report.pbix)
 
-<b> [Tableau Public Link] <b> (https://public.tableau.com/profile/abhijeet.jagtap/)
+[Tableau Public Link](https://public.tableau.com/profile/abhijeet.jagtap/)
 
 ---
