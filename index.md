@@ -67,7 +67,7 @@ Work Samples
 
 [Formatting](https://www.dropbox.com/s/ucrdn9ard29f237/Formatting.xlsm)
 
-[Power BI Project](https://www.dropbox.com/s/j1bq7tkoilysmvu/Corporate%20Services%20Expense%20Report.pbix)
+[Power BI Project](https://app.powerbi.com/groups/me/reports/8bb419b5-ef8b-4c2b-bc2b-789ddcd14e8e?ctid=a0341677-1c6d-4081-a70c-0c903712ffcc)
 
 [Tableau Public Link](https://public.tableau.com/profile/abhijeet.jagtap/)
 
