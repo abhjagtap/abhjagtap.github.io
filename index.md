@@ -61,13 +61,9 @@ B Sc (Honors: Industrial Chemistry),	July 2008
 
 Work Samples
 
-[Link Creator](https://www.dropbox.com/s/vzao3dct29rqyki/Link%20Creator.xlsm)
+[VBA Automation](https://www.dropbox.com/home/Work%20Examples/Excel%20Automation%20Files)
 
-[Email Check](https://www.dropbox.com/s/x1jirb0ajjneatz/Email%20Check.xlsm) 
-
-[Formatting](https://www.dropbox.com/s/ucrdn9ard29f237/Formatting.xlsm)
-
-[Power BI Project](https://app.powerbi.com/groups/me/list?noSignUpCheck=1)
+[Power BI Project](https://www.dropbox.com/home/Work%20Examples/Power%20BI%20Dashboard)
 
 [Tableau Public Link](https://public.tableau.com/profile/abhijeet.jagtap/)
 
